@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(228, 228, 228);
+}
+.navbar-brand {
+    font-size: 2em;
+}
+#main-list li {
+    font-size: 1.2em;
+}
+h1 ,h2, .navbar-brand, #main-list li {
+    text-transform: uppercase;
+}
+#brand-logo {
+    padding: 10px;
+    height: 100px;
+}
+h2 {
+    margin-bottom: 5px;
+}
+.styled-p {
+    font-size: 1.4em;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.styled-h1 {
+    margin-top: 60px;
+}
+.styled-p2 {
+    margin-bottom: 60px;
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+.styled-p3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
+.grey-bg {
+    background-color: rgb(228, 228, 228);
+    margin-bottom: 40px; 
+}
+.read-more-button {
+    background-color: black;
+    color: white;
+    width: 150px;
+    margin-bottom: 50px;
+}
+.read-more-button:hover {
+    background-color: black;
+    color: white;
+}
+.duos {
+    margin-bottom: 25px;
+}
+p {
+    font-size: 1.15em;
+}
+#styled-anchors a {
+    text-decoration: underline;
+    color: black;
+}
+#styled-anchors a:hover {
+    text-decoration: none;
+}
+.white-bg {
+    background-color: white;
+    margin: 0px 0px 40px 0px;
+}
+.large-icons {
+    font-size: 7em;
+}
+.styled-img {
+    display: block;
+    align-items: center;
+}
+.dark-margin {
+    border-bottom: 2px solid black;
+}
+.footer {
+    font-size: 1.4em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+@media (max-width: 767px) {
+
+}
